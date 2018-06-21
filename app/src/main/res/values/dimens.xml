@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_72dp">72dp</dimen>
+    <dimen name="ly_74dp">74dp</dimen>
+    <dimen name="ly_32dp">32dp</dimen>
+    <dimen name="ly_1dp">1dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+    <dimen name="ly_78dp">78dp</dimen>
+    <dimen name="ly_128dp">128dp</dimen>
+    <dimen name="ly_152dp">152dp</dimen>
+    <dimen name="ly_mg_12dp">12dp</dimen>
+    <dimen name="ly_220dp">220dp</dimen>
+    <dimen name="ly_mg_top_24dp">24dp</dimen>
+    <dimen name="tx_13sp">13sp</dimen>
+    <dimen name="tx_28sp">28sp</dimen>
+    <dimen name="ly_19dp">19dp</dimen>
+    <dimen name="ly_mg_8dp">8dp</dimen>
+    <dimen name="tx_18sp">18sp</dimen>
+    <dimen name="tx_16sp">16sp</dimen>
+    <dimen name="ly_40dp">40dp</dimen>
+    <dimen name="ly_58dp">58dp</dimen>
+    <dimen name="tx_12sp">12sp</dimen>
+    <dimen name="ly_mg_3dp">3dp</dimen>
+    <dimen name="ly_131_dp">131dp</dimen>
+    <dimen name="ly_5dp">5dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="ly_mg_10dp">10dp</dimen>
+    <dimen name="ly_160dp">160dp</dimen>
+    <dimen name="ly_140dp">140dp</dimen>
+    <dimen name="pd_34dp">34dp</dimen>
+    <dimen name="ly_mg_18dp">26dp</dimen>
+    <dimen name="pd_20dp">20dp</dimen>
+    <dimen name="ly_25dp">25dp</dimen>
+    <dimen name="ly_mg_2dp">2dp</dimen>
+</resources>

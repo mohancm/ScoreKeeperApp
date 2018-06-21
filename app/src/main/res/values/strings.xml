@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="match_centre">Match Centre</string>
+    <string name="cd_team_a_bg">Team A background</string>
+    <string name="cd_team_a">Team A</string>
+    <string name="cd_team_b">Team B</string>
+    <string name="cd_team_b_bg">Team B background</string>
+    <string name="sport_name">UEFA Champions League</string>
+    <string name="game_location">Stamford Bridge</string>
+    <string name="colon">:</string>
+    <string name="timer">60\'</string>
+    <string name="team_A">Chelsea</string>
+    <string name="scores">0</string>
+    <string name="team_B">Monaco</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="red_card">Red Card</string>
+    <string name="goal">Goal</string>
+    <string name="reset">reset</string>
+    <string name="lets_play">Let\'s Play!</string>
+</resources>
